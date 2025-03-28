@@ -1,4 +1,4 @@
-BoomVenture
+BoomVenture - The Game
 ===
 A Unity mobile game prototype.
 Juggle a small cave diver into the sky with explosions that are triggered by tapping on the cell phone screen.
